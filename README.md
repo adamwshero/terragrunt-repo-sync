@@ -5,7 +5,7 @@
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/adamwshero/terraform-aws-api-gateway?color=lightgreen&label=latest%20tag%3A&style=for-the-badge)
 <br>
 <br>
-# GitHub Actions Pipeline: Terragrunt Format & Sync Repo
+# GitHub Actions Pipeline: Terragrunt Format & Sync Files
 
 #### GitHub Actions pipeline to format all Terragrunt HCL files and to sync select files and folders to a target repository.
 <br>
