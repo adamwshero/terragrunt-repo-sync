@@ -1,0 +1,19 @@
+# Since we are renaming directories in the target repo, we must use source/dest to indicate the current vs. new path. Otherwise, this can be a flat list.
+# Only directories can use `deleteOrphaned: true`
+
+github-space-name/repo-name@branch-name:
+
+## Root Files
+ - source: product.hcl
+   dest: product.hcl
+   deleteOrphaned: true
+
+## Nested Files
+ - source: some-code/product.hcl
+   dest: some-code/product.hcl
+   deleteOrphaned: true
+
+## Full Directory
+ - source: some-more-code/
+   dest: some-more-code/
+   deleteOrphaned: true
