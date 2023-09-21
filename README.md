@@ -1,5 +1,5 @@
 [![license](https://img.shields.io/github/license/autero1/action-terragrunt)](https://github.com/autero1/action-terragrunt/blob/master/LICENSE)
-<!-- ![Sync Pipeline](https://github.com/adamwshero/terragrunt-repo-sync/workflows/Sync%20Pipeline/badge.svg?branch=main&event=push) -->
+![Sync Pipeline](https://github.com/adamwshero/terragrunt-repo-sync/workflows/Sync%20Pipeline/badge.svg?branch=main&event=push)
 <br>
 
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/adamwshero/terragrunt-repo-sync?color=lightgreen&label=latest%20tag%3A&style=for-the-badge)

@@ -1,7 +1,7 @@
 # Since we are renaming directories in the target repo, we must use source/dest to indicate the current vs. new path. Otherwise, this can be a flat list.
 # Only directories can use `deleteOrphaned: true`
 
-github-space-name/repo-name@branch-name:
+adamwshero/terragrunt-sync-target@main:
 
 ## Root Files
  - source: product.hcl
